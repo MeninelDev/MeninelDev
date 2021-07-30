@@ -3,7 +3,7 @@
 ---
 
 <a href="https://www.linkedin.com/in/gabriel-fernando-b07691210/">
- <img style="border-radius: 50%;" src="" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="C:\workspace\MeninelDev\assets\eu.jpg" width="150px;" alt=""/>
  <br />
  <sub><b>Olá 👋 me chamo Gabriel Meninel!</b></sub></a> :computer: <a href="https://www.linkedin.com/in/gabriel-fernando-b07691210/" title="MeninelDev">:</a>
 
@@ -20,6 +20,7 @@
 - Framework Conhecido.
 - ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+- Atualmente moro em Porto Seguro - Bahia, desde então comecei a me interessar muito pela area de Desenvolvimento no qual, eu gostaria focar no assunto relacionado a Web Segurança e poder despertar interesse sobre como manter seguro sites, aplicações, APIs, manter os usuarios seguros ao acessar um site, com tranquilidade e conforto sem preocupações de ter seus dados pessoais roubados, etc. E, demonstrar a beleza de poder viver em um mundo virtual mais seguro.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeninelDev&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
