@@ -7,6 +7,8 @@
  <br />
  <sub><b>Olá 👋 me chamo Gabriel Meninel!</b></sub></a> :computer: <a href="https://www.linkedin.com/in/gabriel-fernando-b07691210/" title="MeninelDev">:</a>
 
+<br>
+
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/MeninelDev)](https://github.com/MeninelDev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-fernando-b07691210/)](https://www.linkedin.com/in/gabriel-fernando-b07691210/)
